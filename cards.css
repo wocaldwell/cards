@@ -1,0 +1,6 @@
+.user-card {
+    background-color: #666;
+    width: 20%;
+    height: 200px;
+    border: 2px dashed red;
+}
